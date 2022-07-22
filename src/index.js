@@ -1,0 +1,1 @@
+import galleryScript from './js/01-gallery.js'
